@@ -1,3 +1,5 @@
+This was the prototype for https://github.com/smjnab/WiPee
+
 # WaterLevelMonitor
 Raspberry Pi Python project to monitor water level and send email using AWS SES.
 
